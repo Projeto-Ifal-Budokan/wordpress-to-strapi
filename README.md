@@ -50,8 +50,8 @@ A comprehensive, enterprise-grade migration tool for transferring content from W
 
 ```bash
 # Clone if using git
-git clone <repository-url>
-cd migrate-wp-strapi
+git clone https://github.com/Projeto-Ifal-Budokan/wordpress-to-strapi.git
+cd wordpress-to-strapi
 
 # Or download and extract the files
 ```
